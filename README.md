@@ -1,4 +1,4 @@
-#Magento 2 UBI Payment Gateway
+# Magento 2 UBI Payment Gateway
 
 
 Union Bank of India (UBI) is one of the leading public sector banks in India, which is also providing highly secure and reliable online payment solutions. Meetanshi has developed ***[Magento 2 UBI Payment Gateway](https://meetanshi.com/magento-2-ubi-payment-gateway.html)*** extension that can provide a highly secure and reliable payment solution to Magento store owners.
